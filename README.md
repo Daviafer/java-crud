@@ -8,4 +8,5 @@ Programas usados no projeto:
 - ApacheTomCat	= Servidor de aplicação - Servlet container - Servidor web que interage com servlets Java
 
 Projeto em SpringBoot usando MAVEN para automatizar o desenvolvimento.
-
+Usei o Framework BootStrap para facilitar o formulário deixando responsivo.
+Usei JavaScript puro, Framework JQuery e Ajax para as requisições com banco de dados.
